@@ -1,8 +1,0 @@
-<html>
-  <head>
-    <title>Roleatzen</title>
-  </head>
-  <body>
-    <p>Kaixo!</p>
-  </body>
-</html>
